@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi there, I'm **Moayad Rabah**
 
-<!--
-**moayadabdo22-boop/moayadabdo22-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **AI Engineer | Software Developer | Innovator**
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent systems that connect **AI, IoT, and Cloud Computing**.  
+I specialize in creating solutions powered by **Machine Learning, Deep Learning, Computer Vision, and Voice/Face Recognition**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Skilled in **Python, Java, JavaScript, HTML, CSS, and SQL**
+- 🤖 Focused on **Machine Learning & Deep Learning**
+- 👁️ Experienced with **Computer Vision and Image Processing**
+- 🗣️ Work on **Voice and Face Recognition** systems
+- 📱 **Android Developer**
+- ☁️ Proficient with **AWS Cloud Services**
+- 🌐 Interested in **IoT and Smart Systems**
+- 🧠 Always exploring the intersection between AI and real-world applications
+
+---
+
+## 🧠 Core Skills & Technologies
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 Artificial Intelligence
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00A67E?style=for-the-badge&logo=opencv&logoColor=white)
+![Face Recognition](https://img.shields.io/badge/Face%20Recognition-5D3FD3?style=for-the-badge)
+![Voice Recognition](https://img.shields.io/badge/Voice%20Recognition-FFB300?style=for-the-badge)
+
+### ☁️ Cloud & IoT
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IoT](https://img.shields.io/badge/Internet%20of%20Things-2E8B57?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Moayad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoayadRabah&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoayadRabah&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoayadRabah)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+
+---
+
+> 💬 *“True intelligence is when technology understands you before you tell it what you need.”*  
+> — **Moayad Rabah**
