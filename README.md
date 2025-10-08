@@ -3,14 +3,14 @@
 🎯 **AI Engineer | Software Developer | Innovator**
 
 I'm passionate about building intelligent systems that connect **AI, IoT, and Cloud Computing**.  
-I specialize in creating solutions powered by **Machine Learning, Deep Learning, Computer Vision, and Voice/Face Recognition**.
+I specialize in creating solutions powered by **Machine Learning, Deep Learning, Computer Vision, NLP, and Voice/Face Recognition**.
 
 ---
 
 ## 🚀 About Me
 
 - 💻 Skilled in **Python, Java, JavaScript, HTML, CSS, SQL, and C#**
-- 🤖 Focused on **Machine Learning & Deep Learning**
+- 🤖 Focused on **Machine Learning, Deep Learning, and NLP**
 - 👁️ Experienced with **Computer Vision and Image Processing**
 - 🗣️ Work on **Voice and Face Recognition** systems
 - 📱 **Android Developer**
@@ -35,6 +35,7 @@ I specialize in creating solutions powered by **Machine Learning, Deep Learning,
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00A67E?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-8A2BE2?style=for-the-badge&logo=spacy&logoColor=white)
 ![Face Recognition](https://img.shields.io/badge/Face%20Recognition-5D3FD3?style=for-the-badge)
 ![Voice Recognition](https://img.shields.io/badge/Voice%20Recognition-FFB300?style=for-the-badge)
 
